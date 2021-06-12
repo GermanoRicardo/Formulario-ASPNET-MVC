@@ -1,0 +1,38 @@
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.exe
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.deps.json
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.runtimeconfig.json
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.dll
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.pdb
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.Views.dll
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\bin\Debug\netcoreapp3.1\TESTE ENTREVISTA.Views.pdb
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.RazorAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.RazorAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\staticwebassets\TESTE ENTREVISTA.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\staticwebassets\TESTE ENTREVISTA.StaticWebAssets.xml
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\scopedcss\bundle\TESTE ENTREVISTA.styles.css
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.TagHelpers.input.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.TagHelpers.output.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.RazorCoreGenerate.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Home\Recebido.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.RazorTargetAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.Views.pdb
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.dll
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.pdb
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\TESTE ENTREVISTA1\TESTE ENTREVISTA\obj\Debug\netcoreapp3.1\TESTE ENTREVISTA.csproj.CopyComplete

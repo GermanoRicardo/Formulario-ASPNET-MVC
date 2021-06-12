@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    //Layout = null;
+}
+
+<form name="formteste" action="/home/recebido" method="post">
+    <h1>Contato</h1>
+
+    <p class="nome">
+        <input type="text" name="nome" placeholder="Informe seu nome" required="required">
+    </p>
+
+    <p class="telefone">
+        <input type="tel" name="telefone" placeholder="Informe seu telefone" required="required">
+    </p>
+
+    <p class="email">
+        <input type="email" name="email" placeholder="Informe seu email" required="required">
+    </p>
+
+    <p class="mensagem">
+        <textarea name="mensagem" placeholder="deixe sua mensagem"></textarea>
+    </p>
+
+    <p class="enviar">
+        <input type="submit" name="enviar" value="Enviar">
+    </p>
+
+</form>

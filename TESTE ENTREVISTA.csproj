@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TESTE_ENTREVISTA</RootNamespace>
+  </PropertyGroup>
+
+</Project>
